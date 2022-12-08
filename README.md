@@ -1,1 +1,1 @@
-# Blood-Transfusion-Prediction
+The goal of this project is predicting if a person will donate blood in March 2007 based on the historical data and attributes such as Recency, Frequency etc. This is a classification problem Multivariate Logistic Regression is implemented to predict whether a person will donate blood in March 2007 or not.
